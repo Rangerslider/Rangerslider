@@ -23,6 +23,7 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rangerslider)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangerslider)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangerslider&show_icons=true&count_private=true)  
