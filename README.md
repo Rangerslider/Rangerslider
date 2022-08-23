@@ -25,7 +25,7 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/Ranger_Nuri?theme=light&font=Karma&ext=contest" />
+<img height="270em" src="https://leetcard.jacoblin.cool/Ranger_Nuri?theme=light&font=Karma&ext=contest" />
 
 </p
 
