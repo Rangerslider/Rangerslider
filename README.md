@@ -23,11 +23,6 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rangerslider)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="270em" src="https://leetcard.jacoblin.cool/Ranger_Nuri?theme=light&font=Karma&ext=contest" />
-
-</p
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangerslider)](https://github.com/anuraghazra/github-readme-stats)
 
