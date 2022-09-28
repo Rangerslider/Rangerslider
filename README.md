@@ -1,5 +1,5 @@
 
-### Hi there 👋, I am Ishmoth Ura Nuri
+### Hey, Hi 👋, I am Ishmoth Ura Nuri. Welcome to my profile .
 #### Software Engineer 
 
 
