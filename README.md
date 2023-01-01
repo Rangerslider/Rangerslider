@@ -5,7 +5,7 @@
 
 Self-motivated, creative, responsible, hardworking talented in developing working competitive programmer and software development. 
 
-- 🔭 I’m currently working on studying for 11'th semesters in the CSE department of BUBT. 
+- 🔭 I’m currently working on studying for 12'th semesters in the CSE department of BUBT. 
 
 <p> </p>
 <h3 align="left">Languages and Tools:</h3>
