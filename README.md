@@ -32,7 +32,4 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rangerslider)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rangerslider)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rangerslider)  
-
 ![Profile views](https://gpvc.arturio.dev/Rangerslider)  
