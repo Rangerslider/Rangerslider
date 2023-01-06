@@ -28,10 +28,6 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rangerslider&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rangerslider&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-)
-
-
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rangerslider)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rangerslider)  
