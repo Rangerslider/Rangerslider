@@ -23,10 +23,11 @@ Self-motivated, creative, responsible, hardworking talented in developing workin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rangerslider)](https://github.com/ryo-ma/github-profile-trophy)
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=rangerslider&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rangerslider&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rangerslider&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangerslider)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangerslider&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rangerslider)  
 
