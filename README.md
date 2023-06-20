@@ -1,11 +1,11 @@
 
-### Hey, Hi 👋, I am Ishmoth Ura Nuri. Welcome to my profile .
+### Hey, Hi 👋, I am Ishmoth Ura Nuri. Welcome to my profile.
 #### Software Engineer 
 
 
-Self-motivated, creative, responsible, hardworking talented in developing working competitive programmer and software development. 
+Self-motivated, creative, responsible, hardworking talented in developing working competitive programming and software development. 
 
-- 🔭 I’m currently working on studying for 12'th semesters in the CSE department of BUBT. 
+- 🔭 Recently I completed my under graduation in CSE department from BUBT. 
 
 <p> </p>
 <h3 align="left">Languages and Tools:</h3>
