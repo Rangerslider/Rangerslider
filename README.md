@@ -2,8 +2,8 @@
 ### Hey, Hi 👋, I am Ishmoth Ura Nuri. Welcome to my profile.
 #### Software Engineer 
 
-
-Self-motivated, creative, responsible, hardworking talented in developing working competitive programming and software development. 
+ 
+I am a Self-motivated, creative, responsible, hardworking talented competitive programmer and software engineer at ADfinix Limited.
 
 - 🔭 Recently I completed my under graduation in CSE department from BUBT. 
 
